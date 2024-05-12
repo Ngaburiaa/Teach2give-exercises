@@ -1,0 +1,42 @@
+body{
+        background-color:lightgray;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     
+ }
+ 
+ h2{
+     font-size: 1.1em;
+     font-weight: 700;
+     padding-left: 30px;
+     
+ }
+ .QRcode{
+     background-color: white;
+     padding: 20px;
+     border-radius: 20px;
+     padding-top: 20px;
+     
+ }
+ 
+ img{
+     border-radius: 20px;
+     width: 290px;
+     height: 290px;
+ 
+ 
+     
+          
+ }
+ 
+ p{
+ padding: 30px;
+ padding-top: 0px;
+ 
+ font-weight: 400;
+ color: gray;
+ }
+ span{
+     padding: 30px;
+ }

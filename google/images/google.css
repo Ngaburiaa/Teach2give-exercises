@@ -1,0 +1,62 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color:lavender;
+   padding: 50px;
+  
+    
+}
+
+.container{
+    justify-content: center;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: rgb(217, 217, 248);
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+    background-color:rgb(217, 217, 248)'' ;
+}
+p{
+    color: gray;
+}
+i{
+    padding: 10px;
+    padding-bottom: 30px;
+}
+.insta{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+            
+            
+    -webkit-text-fill-color: transparent;
+    
+    font-size: 20px;
+        
+}
+.face{
+   font-size: 20px; 
+   color: dodgerblue;
+}
+.twit{
+    font-size: 20px;
+    color: dodgerblue;
+}
+.icon{
+    column-gap: 90px;
+    padding: 20px; 
+    
+}
+
+button{
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    background-color: white;
+    font-size: 0.9em;
+    color: black;
+    font-weight: 700;
+}
